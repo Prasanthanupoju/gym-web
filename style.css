@@ -1,0 +1,83 @@
+
+h1 {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+h6{
+    color:white;
+}
+
+body {
+    background-image: url(https://res.cloudinary.com/dk1c2ypa9/image/upload/v1708594787/pngtree-modern-simple-elegant-dark-blue-landing-page-website-background-picture-image_1454711_blnjhm.png);
+    background-size: 2000px;
+}
+
+.my-container {
+    text-align: center;
+
+}
+
+.table,tr,th,td {
+    text-align: center;
+    border:2px solid white;
+    border-collapse:collapse;
+    padding: 5px;
+}
+
+
+button {
+    background-color: red;
+    color: white;
+
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+}
+h1 {
+    font-size: 40px;
+}
+
+.para {
+    color: white
+}
+
+h3 {
+    color: white;
+}
+
+.fitness {
+    color: white;
+}
+
+h2 {
+    color: white
+}
+
+.my {
+    color: whitesmoke
+}
+
+h4 {
+    text-align: center;
+}
+
+.roadmap {
+    text-align: center;
+    color: white
+}
+
+.list {
+    text-align: left;
+}
+
+button {
+    background-color: red;
+    color: white
+}
+.praneeth{
+    filter:drop-shadow(2px 3px 5px);
+}
+style.css
